@@ -1,0 +1,60 @@
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/  
+
+
+@import "./abstract/functions";
+@import "./abstract/mixins";
+@import "./abstract/variables";
+
+@import "./base/animation";
+@import "./base/base";
+@import "./base/typography";
+@import "./base/utilities";
+
+
+
+@import "./components/button";
+@import "./layout/grid";
+@import "./layout/header";
+@import "./pages/home";
+
+
+
+
+
+
+
+
+/*  Before Nested   */
+
+// .header__logo-box{
+// }
+// .header__logo{
+// }
+// .header__text-box{
+// }
+// .heading-primary--main{
+// }
+// .heading-primary--sub{
+// }
+// .btn:link,.btn:visited{ 
+// }
+// .btn:hover{
+// }
+// .btn:active{
+// }
+// .btn--white{
+// }
+// .btn::after{
+// }
+// .btn--white::after{
+// }
+// .btn:hover::after{
+// }
+
